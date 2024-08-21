@@ -2,7 +2,7 @@
 # Rick Farias
 #### Computer Science Student at UFC, Universidade Federal do Ceará.
 
-(Catunda, CE - Brasil)
+(CE - Brasil)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-farias-8b8832306/)
 [![Instagram](https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariasrick/)
