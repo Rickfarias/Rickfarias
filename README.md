@@ -11,9 +11,9 @@
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:antrick2006@gmail.com)
 ### Sobre
 
-> Olá! Meu nome é Rick Farias e atualmente estou matriculado no curso de Ciências da Computação na Universidade Federal do Ceará, Campus de Crateús.
+> Olá! Meu nome é Rick Farias, atualmente estou matriculado no curso de Ciências da Computação na Universidade Federal do Ceará, Campus de Crateús.
 
-> Iniciei minha trajetória profissional na área de Tecnologia da Informação no ano de 2024. Além disso, trago consigo um sólido conhecimento em administração, tendo concluído minha formação como Técnico em Administração de Empresas no ano de 2023.
+> Iniciei minha trajetória profissional na área de Tecnologia da Informação no ano de 2024. Além disso, trago comigo um sólido conhecimento em administração, tendo concluído minha formação como Técnico em Administração de Empresas no ano de 2023.
 
 ### About
 
