@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-farias-8b8832306/)
 [![Instagram](https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariasrick/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/antrick2006?tab=skills&page=1)
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rickfarias)
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:antrick2006@gmail.com)
 ### Sobre
